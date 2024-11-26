@@ -1,6 +1,21 @@
 from flask import Flask, request, jsonify
-from gradio_client import Client
+import sys
+
+import os
+
 import json  # To decode string responses into dictionaries if needed
+import logging
+
+# Suppress Gradio Client logs
+
+sys.stdout = open(os.devnull, 'w')
+
+from gradio_client import Client
+
+# Reset stdout back to normal after initializing the Gradio client
+sys.stdout = open(os.devnull, 'w')
+sys.stderr = open(os.devnull, 'w')
+
 
 # Initialize Flask app
 app = Flask(__name__)
@@ -12,6 +27,10 @@ txt2img_client = Client("flux-ai/216.48.185.71")
 img2img_client = Client("flux-ai/216.48.185.71") 
 
 inpaint_client = Client("flux-ai/216.48.185.71") 
+
+sys.stdout = sys.__stdout__
+sys.stderr = sys.__stderr__
+
 
 @app.route('/ai/art/txt2img/', methods=['POST'])
 def process_txt2img_data():
