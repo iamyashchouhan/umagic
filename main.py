@@ -6,12 +6,12 @@ import json  # To decode string responses into dictionaries if needed
 app = Flask(__name__)
 
 # Gradio Client setup for txt2txt (text-to-image model)
-txt2img_client = Client("lelafav502/txt2txt")
+txt2img_client = Client("flux-ai/216.48.185.71")
 
 # Gradio Client setup for img2img (image-to-image model)
-img2img_client = Client("lelafav502/txt2txt") 
+img2img_client = Client("flux-ai/216.48.185.71") 
 
-inpaint_client = Client("lelafav502/txt2txt") 
+inpaint_client = Client("flux-ai/216.48.185.71") 
 
 @app.route('/ai/art/txt2img/', methods=['POST'])
 def process_txt2img_data():
