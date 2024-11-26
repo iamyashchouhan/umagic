@@ -134,6 +134,7 @@ def process_doodle_data():
     ratio = request.form.get('ratio', '')
     uuid_value = request.form.get('Uid', '')
     token = request.form.get('Token', '')
+    prompt = request.form.get('prompt', '')
     image = request.form.get('image_name')  # Get the image file sent in the request
 
     # You can print the received form data
@@ -154,6 +155,7 @@ def process_doodle_data():
         style=style_id,  # Use style_id from the form data
         uuid_value=uuid_value,
         token=token,
+        prompt=prompt,
         api_name="/send_image2image_request"
     )
 
