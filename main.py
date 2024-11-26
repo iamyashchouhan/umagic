@@ -97,7 +97,7 @@ def process_img2img_data():
         return jsonify({"error": "Missing required parameters: 'ratio' or 'image'"}), 400
 
     # Save the image temporarily to send to Gradio (optional, depending on your Gradio client)
-    
+
 
     # Call Gradio client for img2img
     result = img2img_client.predict(
@@ -155,6 +155,137 @@ def process_doodle_data():
         uuid_value=uuid_value,
         token=token,
         api_name="/send_image2image_request"
+    )
+
+    # Print the result from the Gradio client
+    print(result)
+
+    if isinstance(result, str):
+        try:
+            # Attempt to parse the result if it's a string
+            result = json.loads(result)
+        except json.JSONDecodeError:
+            return jsonify({"error": "Invalid JSON returned from the Gradio client."}), 500
+
+    # Log the parsed result for debugging purposes
+    print(result)
+
+    # Return the parsed result as JSON
+    return jsonify(result)
+
+@app.route('/ai/art/enhance/', methods=['POST'])
+def process_enhace_data():
+    # Get form data from the request
+    uuid_value = request.form.get('Uid', '')
+    token = request.form.get('Token', '')
+    image = request.form.get('image_name')  # Get the image file sent in the request
+
+    # You can print the received form data
+    print("Received form data for img2img:")
+    print(f"uuid_value: {uuid_value}, token: {token}, image: {image}")
+
+    # Check for required parameters
+    if not uuid_value or not image:
+        return jsonify({"error": "Missing required parameters: 'ratio' or 'image'"}), 400
+
+    # Save the image temporarily to send to Gradio (optional, depending on your Gradio client)
+
+
+    # Call Gradio client for img2img
+    result = img2img_client.predict(
+        image=image,  # Path to the uploaded image
+        uuid_value=uuid_value,
+        token=token,
+        api_name="/send_enhance_request"
+    )
+
+    # Print the result from the Gradio client
+    print(result)
+
+    if isinstance(result, str):
+        try:
+            # Attempt to parse the result if it's a string
+            result = json.loads(result)
+        except json.JSONDecodeError:
+            return jsonify({"error": "Invalid JSON returned from the Gradio client."}), 500
+
+    # Log the parsed result for debugging purposes
+    print(result)
+
+    # Return the parsed result as JSON
+    return jsonify(result)
+
+@app.route('/ai/art/expand/', methods=['POST'])
+def process_outpaint_data():
+    # Get form data from the request
+    uuid_value = request.form.get('Uid', '')
+    token = request.form.get('Token', '')
+    image = request.form.get('image_name')
+
+    canvas = request.form.get('canvas_info')
+    
+    # You can print the received form data
+    print("Received form data for img2img:")
+    print(f"uuid_value: {uuid_value}, token: {token}, image: {image}")
+
+    # Check for required parameters
+    if not uuid_value or not image:
+        return jsonify({"error": "Missing required parameters: 'ratio' or 'image'"}), 400
+
+    # Save the image temporarily to send to Gradio (optional, depending on your Gradio client)
+
+
+    # Call Gradio client for img2img
+    result = img2img_client.predict(
+        image=image,
+        canvas_info=canvas,
+        uuid_value=uuid_value,
+        token=token,
+        api_name="/send_outpaint_request"
+    )
+
+    # Print the result from the Gradio client
+    print(result)
+
+    if isinstance(result, str):
+        try:
+            # Attempt to parse the result if it's a string
+            result = json.loads(result)
+        except json.JSONDecodeError:
+            return jsonify({"error": "Invalid JSON returned from the Gradio client."}), 500
+
+    # Log the parsed result for debugging purposes
+    print(result)
+
+    # Return the parsed result as JSON
+    return jsonify(result)
+
+@app.route('/ai/art/faceswap/', methods=['POST'])
+def process_faceswap_data():
+    # Get form data from the request
+    uuid_value = request.form.get('Uid', '')
+    token = request.form.get('Token', '')
+    image = request.form.get('image_name') 
+    style = request.form.get('style')# Get the image file sent in the request
+
+    # You can print the received form data
+    print("Received form data for img2img:")
+    print(f"uuid_value: {uuid_value}, token: {token}, style: {style}, image: {image}")
+
+    # Check for required parameters
+    if not uuid_value or not image:
+        return jsonify({"error": "Missing required parameters: 'ratio' or 'image'"}), 400
+
+    # Save the image temporarily to send to Gradio (optional, depending on your Gradio client)
+
+
+    # Call Gradio client for img2img
+    result = img2img_client.predict(
+        image=image,
+        target=style,
+        uuid_value=uuid_value,
+        token=token,
+        api_name="/send_face_request"
     )
 
     # Print the result from the Gradio client
