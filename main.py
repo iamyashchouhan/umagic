@@ -156,7 +156,7 @@ def process_doodle_data():
         uuid_value=uuid_value,
         token=token,
         prompt=prompt,
-        api_name="/send_image2image_request"
+        api_name="/send_line2image_request"
     )
 
     # Print the result from the Gradio client
