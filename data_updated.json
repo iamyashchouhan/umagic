@@ -29,6 +29,18 @@
     "activeType": 0,
     "activeTypeUS": 0,
     "showInMain": true,
+    "packageID": "avatar_cartoon_Pixar",
+    "style_name": "Pixar",
+    "style_id": "Pixar",
+    "collectionZipURL": "/images/Pixar.webp",
+    "addedTimeMillis": 1748597400000
+  },
+  {
+    "startVersion": 0,
+    "style_type": 0,
+    "activeType": 0,
+    "activeTypeUS": 0,
+    "showInMain": true,
     "packageID": "avatar_anime_Retro Gaze",
     "style_name": "Retro Gaze",
     "style_id": "Retro Gaze",
