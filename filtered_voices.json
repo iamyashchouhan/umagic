@@ -41,7 +41,7 @@
     },
     {
         "voice_id": "wViXBPUzp2ZZixB1xQuM",
-        "name": "Arnold",
+        "name": "Arel",
         "preview_url": "https://storage.googleapis.com/eleven-public-prod/premade/voices/wViXBPUzp2ZZixB1xQuM/44023be0-d837-4166-89e2-1bf4b77b7132.mp3",
         "gender": "male",
         "accent": "american",
@@ -192,14 +192,6 @@
         "model_id": null
     },
     {
-        "voice_id": "JBFqnCBsd6RMkjVDRZzb",
-        "name": "George",
-        "preview_url": "https://storage.googleapis.com/eleven-public-prod/premade/voices/JBFqnCBsd6RMkjVDRZzb/e6206d1a-0721-4787-aafb-06a6e705cac5.mp3",
-        "gender": "male",
-        "accent": "british",
-        "model_id": "eleven_v2_flash"
-    },
-    {
         "voice_id": "Yko7PKHZNXotIFUBG7I9",
         "name": "George",
         "preview_url": "https://storage.googleapis.com/eleven-public-prod/premade/voices/Yko7PKHZNXotIFUBG7I9/02c66c93-a237-436f-8a7d-43e8c49bc6a3.mp3",
@@ -305,7 +297,7 @@
     },
     {
         "voice_id": "IvLWq57RKibBrqZGpQrC",
-        "name": "Leo - Energetic Hindi Voice ",
+        "name": "Leo",
         "preview_url": "https://storage.googleapis.com/eleven-public-prod/database/workspace/514d94e9241c48e8b7905375729c436f/voices/IvLWq57RKibBrqZGpQrC/076b2a06-529e-4c70-806c-90e6e6863c7c.mp3",
         "gender": "male",
         "accent": "",
@@ -433,7 +425,7 @@
     },
     {
         "voice_id": "bUTE2M5LdnqaUCd5tJB3",
-        "name": "Vihan Ahuja - Friendly Hindi Voice",
+        "name": "Vihan Ahuja",
         "preview_url": "https://storage.googleapis.com/eleven-public-prod/database/workspace/514d94e9241c48e8b7905375729c436f/voices/bUTE2M5LdnqaUCd5tJB3/ddbcb6d1-4fcb-404a-b2ca-f32f54060b63.mp3",
         "gender": "male",
         "accent": "standard",
