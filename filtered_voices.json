@@ -4,7 +4,7 @@
     "accent": "well-rounded,american,young",
     "name": "Brian(Well-Rounded)",
     "gender": "male",
-    "model_id": "paid",
+    "model_id": "free",
     "voice_id": "67aeca93-5d4b-11ee-a861-00163e2ac61b"
   },
   {
@@ -12,7 +12,7 @@
     "accent": "deep,american,middle aged,",
     "name": "Adam(Edward)",
     "gender": "male",
-    "model_id": "paid",
+    "model_id": "free",
     "voice_id": "67aedda3-5d4b-11ee-a861-00163e2ac61b"
   },
   {
@@ -20,7 +20,7 @@
     "accent": "Tiktok,Trendy",
     "name": "Chloe(Tiktok Style)",
     "gender": "female",
-    "model_id": "free",
+    "model_id": "paid",
     "voice_id": "4390b8e2-06a8-11ef-b6f9-00163e046653"
   },
   {
@@ -28,7 +28,7 @@
     "accent": "soft,american,young",
     "name": "Daisy(Soft)",
     "gender": "female",
-    "model_id": "paid",
+    "model_id": "free",
     "voice_id": "67aec72c-5d4b-11ee-a861-00163e2ac61b"
   },
   {
@@ -36,7 +36,7 @@
     "accent": "A friendly voice with slightly whimsical undertones and a wide expressive range that can convey any emotion with ease.Supports 9 moods/styles.",
     "name": "Guy(Male)",
     "gender": "male",
-    "model_id": "free",
+    "model_id": "paid",
     "voice_id": "ee2a4252-06a1-11ef-a978-00163e027134"
   },
   {
@@ -44,7 +44,7 @@
     "accent": "strong,american,young",
     "name": "Lucy(Strong)",
     "gender": "female",
-    "model_id": "paid",
+    "model_id": "free",
     "voice_id": "67ada33c-5d4b-11ee-a861-00163e2ac61b"
   },
   {
@@ -52,7 +52,7 @@
     "accent": "shouty,american,middle aged",
     "name": "Oliver(Shouty)",
     "gender": "male",
-    "model_id": "free",
+    "model_id": "paid",
     "voice_id": "37f36d30-069f-11ef-9530-00163e027134"
   },
   {
@@ -60,7 +60,7 @@
     "accent": "Kid,Girl,cute,sweet",
     "name": "Little Emma",
     "gender": "female",
-    "model_id": "paid",
+    "model_id": "free",
     "voice_id": "67aee700-5d4b-11ee-a861-00163e2ac61b"
   },
   {
@@ -68,7 +68,7 @@
     "accent": "Kid,Boy,cute,Playful",
     "name": "Little Jack",
     "gender": "male",
-    "model_id": "paid",
+    "model_id": "free",
     "voice_id": "67aee64e-5d4b-11ee-a861-00163e2ac61b"
   },
   {
@@ -76,7 +76,7 @@
     "accent": "kid,girl,fruity",
     "name": "Creepy Little Girl",
     "gender": "male",
-    "model_id": "paid",
+    "model_id": "free",
     "voice_id": "f0ac8d3c-7a0f-11ee-a861-00163e2ac61b"
   },
   {
@@ -84,7 +84,7 @@
     "accent": "Young, American female with an adorable and youthful voice. Perfect for anime, video games, or productions geared towards a young audience. This voice embodies cheerfulness, sweetness, and has an unmistakably kawaii charm.",
     "name": "Kawaii Aerisita(Expressive)",
     "gender": "female",
-    "model_id": "free",
+    "model_id": "paid",
     "voice_id": "37f6a6ee-069f-11ef-9530-00163e027134"
   },
   {
@@ -92,7 +92,7 @@
     "accent": "emotional,american,young",
     "name": "Scarlett(Female)",
     "gender": "female",
-    "model_id": "paid",
+    "model_id": "free",
     "voice_id": "67ada0ba-5d4b-11ee-a861-00163e2ac61b"
   },
   {
@@ -100,7 +100,7 @@
     "accent": "anxious,fear,american,young",
     "name": "Benjamin(Anxious,Fear)",
     "gender": "male",
-    "model_id": "free",
+    "model_id": "paid",
     "voice_id": "37f37e56-069f-11ef-9530-00163e027134"
   },
   {
@@ -108,7 +108,7 @@
     "accent": "animation,childlish,american,young",
     "name": "Gigi(Animation,Childlish)",
     "gender": "female",
-    "model_id": "free",
+    "model_id": "paid",
     "voice_id": "37f471ee-069f-11ef-9530-00163e027134"
   },
   {
@@ -116,7 +116,7 @@
     "accent": "ground reporter,american,middle aged",
     "name": "Alvin(Reporter)",
     "gender": "male",
-    "model_id": "free",
+    "model_id": "paid",
     "voice_id": "37f2c402-069f-11ef-9530-00163e027134"
   },
   {
@@ -124,7 +124,7 @@
     "accent": "crisp,american,middle aged",
     "name": "Matthew(Male)",
     "gender": "male",
-    "model_id": "paid",
+    "model_id": "free",
     "voice_id": "67ae79d5-5d4b-11ee-a861-00163e2ac61b"
   },
   {
@@ -132,7 +132,7 @@
     "accent": "raspy,american,young",
     "name": "Ramon(Raspy)",
     "gender": "male",
-    "model_id": "paid",
+    "model_id": "free",
     "voice_id": "67aec12c-5d4b-11ee-a861-00163e2ac61b"
   },
   {
@@ -140,7 +140,7 @@
     "accent": "Audiobooks,deep,old",
     "name": "Spooky Witch",
     "gender": "female",
-    "model_id": "paid",
+    "model_id": "free",
     "voice_id": "f0ac8cc7-7a0f-11ee-a861-00163e2ac61b"
   },
   {
@@ -148,7 +148,7 @@
     "accent": "steady,calm,old",
     "name": "Old Man",
     "gender": "male",
-    "model_id": "paid",
+    "model_id": "free",
     "voice_id": "a9673c03-8788-11ee-8bae-e86f38d7ec1a"
   },
   {
@@ -156,7 +156,7 @@
     "accent": "calm,old",
     "name": "Old Woman",
     "gender": "female",
-    "model_id": "paid",
+    "model_id": "free",
     "voice_id": "b55d16ac-8788-11ee-b6a2-e86f38d7ec1a"
   },
   {
@@ -164,7 +164,7 @@
     "accent": "An old british man with a seasoned and cultured voice. Perfect for theatrical voice over work.",
     "name": "Arnold(British,Cultured)",
     "gender": "male",
-    "model_id": "free",
+    "model_id": "paid",
     "voice_id": "37f6f946-069f-11ef-9530-00163e027134"
   },
   {
@@ -172,7 +172,7 @@
     "accent": "american,calm,young",
     "name": "Juliet(Female)",
     "gender": "female",
-    "model_id": "paid",
+    "model_id": "free",
     "voice_id": "67ae3af2-5d4b-11ee-a861-00163e2ac61b"
   },
   {
@@ -180,7 +180,7 @@
     "accent": "Short video,fear,old",
     "name": "Aser-Female",
     "gender": "female",
-    "model_id": "paid",
+    "model_id": "free",
     "voice_id": "6a9595b8-8788-11ee-8e13-e86f38d7ec1a"
   },
   {
@@ -188,7 +188,7 @@
     "accent": "Short video,deep,calm,old",
     "name": "Aser-Male",
     "gender": "male",
-    "model_id": "paid",
+    "model_id": "free",
     "voice_id": "76490e13-8788-11ee-9f96-e86f38d7ec1a"
   },
   {
@@ -196,7 +196,7 @@
     "accent": "Trendy,young",
     "name": "Hanako",
     "gender": "female",
-    "model_id": "paid",
+    "model_id": "free",
     "voice_id": "d4a8e133-d093-11ee-9a62-e86f38d7ec1a"
   },
   {
@@ -204,7 +204,7 @@
     "accent": "",
     "name": "Zombie",
     "gender": "male",
-    "model_id": "paid",
+    "model_id": "free",
     "voice_id": "f0ac8c43-7a0f-11ee-a861-00163e2ac61b"
   },
   {
@@ -212,7 +212,7 @@
     "accent": "Audiobook,Documentary,Narrative,Podcast,Poetry",
     "name": "Aaron Brendon",
     "gender": "male",
-    "model_id": "paid",
+    "model_id": "free",
     "voice_id": "d23cc56c-5d1b-11ee-a861-00163e2ac61b"
   },
   {
@@ -220,7 +220,7 @@
     "accent": "Entertainment,Explainer,Narrative,News,Podcast,Poetry",
     "name": "Abbey Brown",
     "gender": "female",
-    "model_id": "paid",
+    "model_id": "free",
     "voice_id": "d23f26bc-5d1b-11ee-a861-00163e2ac61b"
   },
   {
@@ -228,7 +228,7 @@
     "accent": "Entertainment,Fairytales",
     "name": "Angela Adkins",
     "gender": "female",
-    "model_id": "paid",
+    "model_id": "free",
     "voice_id": "d23f2adb-5d1b-11ee-a861-00163e2ac61b"
   },
   {
@@ -236,7 +236,7 @@
     "accent": "Audiobook,Entertainment,Narrative,Podcast,Poetry",
     "name": "Adelia Clark",
     "gender": "female",
-    "model_id": "paid",
+    "model_id": "free",
     "voice_id": "d23d1268-5d1b-11ee-a861-00163e2ac61b"
   },
   {
@@ -244,7 +244,7 @@
     "accent": "Adventure,Audiobook,Documentary,Podcast,Poetry",
     "name": "Alexis-HQ",
     "gender": "female",
-    "model_id": "paid",
+    "model_id": "free",
     "voice_id": "d23c4100-5d1b-11ee-a861-00163e2ac61b"
   },
   {
@@ -252,7 +252,7 @@
     "accent": "Audiobook,Documentary,Marketing,Narrative,Podcast,Poetry",
     "name": "Aria Foster",
     "gender": "female",
-    "model_id": "paid",
+    "model_id": "free",
     "voice_id": "d23cafd4-5d1b-11ee-a861-00163e2ac61b"
   },
   {
@@ -260,7 +260,7 @@
     "accent": "Audiobook,Documentary,Narrative,Podcast,Poetry",
     "name": "Albie Wood",
     "gender": "male",
-    "model_id": "paid",
+    "model_id": "free",
     "voice_id": "d23cbfa3-5d1b-11ee-a861-00163e2ac61b"
   },
   {
@@ -268,7 +268,7 @@
     "accent": "Adventure,Audiobook,Entertainment,Narrative,Podcast,Talk Show",
     "name": "Ariel Turner",
     "gender": "male",
-    "model_id": "paid",
+    "model_id": "free",
     "voice_id": "d23c594d-5d1b-11ee-a861-00163e2ac61b"
   },
   {
@@ -276,7 +276,7 @@
     "accent": "well-rounded,american,middle aged",
     "name": "Aaron(Male)",
     "gender": "male",
-    "model_id": "free",
+    "model_id": "paid",
     "voice_id": "4504c54c-0694-11ef-b457-00163e046653"
   },
   {
@@ -284,7 +284,7 @@
     "accent": "Video games,war veteran,american,middle aged",
     "name": "Adley(Male)",
     "gender": "male",
-    "model_id": "free",
+    "model_id": "paid",
     "voice_id": "4504ee64-0694-11ef-b457-00163e046653"
   },
   {
@@ -292,7 +292,7 @@
     "accent": "Meditation,calm,american,young",
     "name": "Ady(Female)",
     "gender": "female",
-    "model_id": "free",
+    "model_id": "paid",
     "voice_id": "37f352b4-069f-11ef-9530-00163e027134"
   },
   {
@@ -300,7 +300,7 @@
     "accent": "neutral,american,young",
     "name": "Alexander(Articulate)",
     "gender": "male",
-    "model_id": "free",
+    "model_id": "paid",
     "voice_id": "37f38ee6-069f-11ef-9530-00163e027134"
   },
   {
@@ -308,7 +308,7 @@
     "accent": "confident,british,middle aged",
     "name": "Alice(Confident,British)",
     "gender": "female",
-    "model_id": "free",
+    "model_id": "paid",
     "voice_id": "37f3c7d0-069f-11ef-9530-00163e027134"
   },
   {
@@ -316,7 +316,7 @@
     "accent": "overhyped,american,young",
     "name": "Akili(Female)",
     "gender": "female",
-    "model_id": "free",
+    "model_id": "paid",
     "voice_id": "37f48738-069f-11ef-9530-00163e027134"
   },
   {
@@ -324,7 +324,7 @@
     "accent": "storytelling, standard",
     "name": "Arabella(Female)",
     "gender": "female",
-    "model_id": "free",
+    "model_id": "paid",
     "voice_id": "37f55384-069f-11ef-9530-00163e027134"
   },
   {
@@ -332,7 +332,7 @@
     "accent": "A pleasnt voice altough quite fast and intense.",
     "name": "Agnesa(Female)",
     "gender": "female",
-    "model_id": "free",
+    "model_id": "paid",
     "voice_id": "37f6753e-069f-11ef-9530-00163e027134"
   },
   {
@@ -340,7 +340,7 @@
     "accent": "Good for news.",
     "name": "Anika(Female)",
     "gender": "female",
-    "model_id": "free",
+    "model_id": "paid",
     "voice_id": "37f6e712-069f-11ef-9530-00163e027134"
   },
   {
@@ -348,7 +348,7 @@
     "accent": "Support multiple accents including English(Canada)",
     "name": "Ava Multilingual(Female)",
     "gender": "female",
-    "model_id": "free",
+    "model_id": "paid",
     "voice_id": "ee218856-06a1-11ef-a978-00163e027134"
   },
   {
@@ -356,7 +356,7 @@
     "accent": "Support multiple accents including English(Canada)",
     "name": "Andrew Multilingual(Male)",
     "gender": "male",
-    "model_id": "free",
+    "model_id": "paid",
     "voice_id": "ee21e44a-06a1-11ef-a978-00163e027134"
   },
   {
@@ -364,7 +364,7 @@
     "accent": "A bright, engaging voice with a beautiful tone that's perfect for delivering search results and capturing users' attention.",
     "name": "Aeva(Female)",
     "gender": "female",
-    "model_id": "free",
+    "model_id": "paid",
     "voice_id": "ee2a1b1a-06a1-11ef-a978-00163e027134"
   },
   {
@@ -372,7 +372,7 @@
     "accent": "A warm, engaging voice that sounds like someone you want to know, perfect for building a connection with listeners.",
     "name": "Andrewy(Male)",
     "gender": "male",
-    "model_id": "free",
+    "model_id": "paid",
     "voice_id": "ee2a242a-06a1-11ef-a978-00163e027134"
   },
   {
@@ -380,7 +380,7 @@
     "accent": "A clear-sounding voice with great versatility that can adapt to any use case and speak in a way that's easy to understand.Supports 9 moods/styles.",
     "name": "Aria(Female)",
     "gender": "female",
-    "model_id": "free",
+    "model_id": "paid",
     "voice_id": "ee2a491e-06a1-11ef-a978-00163e027134"
   },
   {
@@ -388,7 +388,7 @@
     "accent": "Young , female",
     "name": "Amber(Female)",
     "gender": "female",
-    "model_id": "free",
+    "model_id": "paid",
     "voice_id": "ee2a7006-06a1-11ef-a978-00163e027134"
   },
   {
@@ -396,7 +396,7 @@
     "accent": "A child voice that's great at conveying curiosity and engaging users with a fun and playful tone that's sure to delight.",
     "name": "Ana(Female)",
     "gender": "female",
-    "model_id": "free",
+    "model_id": "paid",
     "voice_id": "ee2a752e-06a1-11ef-a978-00163e027134"
   },
   {
@@ -404,7 +404,7 @@
     "accent": "Young , female",
     "name": "Ashley(Female)",
     "gender": "female",
-    "model_id": "free",
+    "model_id": "paid",
     "voice_id": "ee2a7a4c-06a1-11ef-a978-00163e027134"
   },
   {
@@ -412,7 +412,7 @@
     "accent": "A voice that speaks clearly and carefully that can adapt to a wide variety of use cases.",
     "name": "AIGenerate1(Male)",
     "gender": "male",
-    "model_id": "free",
+    "model_id": "paid",
     "voice_id": "ee2ae342-06a1-11ef-a978-00163e027134"
   },
   {
@@ -420,7 +420,7 @@
     "accent": "A somewhat serious voice to convey information in an objective manner",
     "name": "AIGenerate2(Female)",
     "gender": "female",
-    "model_id": "free",
+    "model_id": "paid",
     "voice_id": "ee2ae7fc-06a1-11ef-a978-00163e027134"
   },
   {
@@ -460,7 +460,7 @@
     "accent": "free,Calm",
     "name": "Barbara(Female)",
     "gender": "female",
-    "model_id": "paid",
+    "model_id": "free",
     "voice_id": "c2ded861-5d3e-11ee-a861-00163e2ac61b"
   },
   {
@@ -468,7 +468,7 @@
     "accent": "Audiobook,Entertainment,Explainer,Narrative,News",
     "name": "Betty Hailey",
     "gender": "female",
-    "model_id": "paid",
+    "model_id": "free",
     "voice_id": "d23cd065-5d1b-11ee-a861-00163e2ac61b"
   },
   {
@@ -476,7 +476,7 @@
     "accent": "Audiobook,Marketing,News,Podcast,Poetry",
     "name": "Bruce-HQ",
     "gender": "male",
-    "model_id": "paid",
+    "model_id": "free",
     "voice_id": "d23d6fee-5d1b-11ee-a861-00163e2ac61b"
   },
   {
@@ -484,7 +484,7 @@
     "accent": "raspy,british,middle aged",
     "name": "Bedia(British)",
     "gender": "female",
-    "model_id": "free",
+    "model_id": "paid",
     "voice_id": "37f4d904-069f-11ef-9530-00163e027134"
   },
   {
@@ -492,7 +492,7 @@
     "accent": "Interactive,pleasant,american,middle aged",
     "name": "Bonita(Female)",
     "gender": "female",
-    "model_id": "free",
+    "model_id": "paid",
     "voice_id": "37f4e660-069f-11ef-9530-00163e027134"
   },
   {
@@ -500,7 +500,7 @@
     "accent": "strong,american,middle aged",
     "name": "Blake(Trustworthy)",
     "gender": "male",
-    "model_id": "free",
+    "model_id": "paid",
     "voice_id": "37f4f9e8-069f-11ef-9530-00163e027134"
   },
   {
@@ -508,7 +508,7 @@
     "accent": "conversational, male",
     "name": "Bryan(Male)",
     "gender": "male",
-    "model_id": "free",
+    "model_id": "paid",
     "voice_id": "37f61ac6-069f-11ef-9530-00163e027134"
   },
   {
@@ -516,7 +516,7 @@
     "accent": "Support multiple accents including English(India)",
     "name": "Brian Multilingual(Male)",
     "gender": "male",
-    "model_id": "free",
+    "model_id": "paid",
     "voice_id": "ee29ea1e-06a1-11ef-a978-00163e027134"
   },
   {
@@ -524,7 +524,7 @@
     "accent": "A youthful, cheerful, and versatile voice that can handle any task you throw its way, well-suited to a wide variety of contexts.",
     "name": "Briany(Male)",
     "gender": "male",
-    "model_id": "free",
+    "model_id": "paid",
     "voice_id": "ee2a33f2-06a1-11ef-a978-00163e027134"
   },
   {
@@ -532,7 +532,7 @@
     "accent": "conversation, male",
     "name": "Brandon(Male)",
     "gender": "male",
-    "model_id": "free",
+    "model_id": "paid",
     "voice_id": "ee2a7e84-06a1-11ef-a978-00163e027134"
   },
   {
@@ -540,7 +540,7 @@
     "accent": "An objective neutual sounding voice good for conveying content without bias",
     "name": "Bluee(Neutral)",
     "gender": "male",
-    "model_id": "free",
+    "model_id": "paid",
     "voice_id": "ee2aec48-06a1-11ef-a978-00163e027134"
   },
   {
@@ -556,7 +556,7 @@
     "accent": "deep, rought masculine, middle-aged",
     "name": "Blag(Male)",
     "gender": "male",
-    "model_id": "free",
+    "model_id": "paid",
     "voice_id": "e7d3cb1c-5935-11ef-857f-00163e041fdf"
   },
   {
@@ -564,7 +564,7 @@
     "accent": "Audiobook,Entertainment,Explainer,Narrative,Podcast,Talk Show",
     "name": "Carson Battle",
     "gender": "male",
-    "model_id": "paid",
+    "model_id": "free",
     "voice_id": "d23cd4bc-5d1b-11ee-a861-00163e2ac61b"
   },
   {
@@ -572,7 +572,7 @@
     "accent": "Audiobook,Documentary,Entertainment,Narrative,News,Poetry",
     "name": "Codie Phillips",
     "gender": "male",
-    "model_id": "paid",
+    "model_id": "free",
     "voice_id": "d23c96e6-5d1b-11ee-a861-00163e2ac61b"
   },
   {
@@ -580,7 +580,7 @@
     "accent": "Adventure,Documentary,Entertainment",
     "name": "Calvin King",
     "gender": "male",
-    "model_id": "paid",
+    "model_id": "free",
     "voice_id": "d23c6a72-5d1b-11ee-a861-00163e2ac61b"
   },
   {
@@ -588,7 +588,7 @@
     "accent": "casual,australian,middle aged",
     "name": "Colin(Australian)",
     "gender": "male",
-    "model_id": "free",
+    "model_id": "paid",
     "voice_id": "37f33306-069f-11ef-9530-00163e027134"
   },
   {
@@ -596,7 +596,7 @@
     "accent": "hoarse,american,middle aged",
     "name": "Callum(hoarse)",
     "gender": "male",
-    "model_id": "free",
+    "model_id": "paid",
     "voice_id": "37f36006-069f-11ef-9530-00163e027134"
   },
   {
@@ -604,7 +604,7 @@
     "accent": "gentle,american-southern,young",
     "name": "Caltha(American-Southern)",
     "gender": "male",
-    "model_id": "free",
+    "model_id": "paid",
     "voice_id": "37f4ac4a-069f-11ef-9530-00163e027134"
   },
   {
@@ -620,7 +620,7 @@
     "accent": "smooth , female",
     "name": "Catherine(Female)",
     "gender": "female",
-    "model_id": "free",
+    "model_id": "paid",
     "voice_id": "37f5e95c-069f-11ef-9530-00163e027134"
   },
   {
@@ -628,7 +628,7 @@
     "accent": "childlike, female",
     "name": "Chasely(Female)",
     "gender": "female",
-    "model_id": "free",
+    "model_id": "paid",
     "voice_id": "37f69960-069f-11ef-9530-00163e027134"
   },
   {
@@ -636,7 +636,7 @@
     "accent": "warm voice, male",
     "name": "Christopher(Male)",
     "gender": "male",
-    "model_id": "free",
+    "model_id": "paid",
     "voice_id": "ee2a8398-06a1-11ef-a978-00163e027134"
   },
   {
@@ -644,7 +644,7 @@
     "accent": "Soft, female",
     "name": "Cora(Female)",
     "gender": "female",
-    "model_id": "free",
+    "model_id": "paid",
     "voice_id": "ee2a8938-06a1-11ef-a978-00163e027134"
   },
   {
@@ -652,7 +652,7 @@
     "accent": "free, Tutorial, Product Introduction",
     "name": "David(Male)",
     "gender": "male",
-    "model_id": "paid",
+    "model_id": "free",
     "voice_id": "c2ded37f-5d3e-11ee-a861-00163e2ac61b"
   },
   {
@@ -660,7 +660,7 @@
     "accent": "Entertainment,Explainer,Narrative,News,Poetry",
     "name": "Danna Brooks",
     "gender": "female",
-    "model_id": "paid",
+    "model_id": "free",
     "voice_id": "d23f277c-5d1b-11ee-a861-00163e2ac61b"
   },
   {
@@ -668,7 +668,7 @@
     "accent": "Audiobook,Entertainment,Narrative,Poetry",
     "name": "Darcey Butler",
     "gender": "female",
-    "model_id": "paid",
+    "model_id": "free",
     "voice_id": "d23d161b-5d1b-11ee-a861-00163e2ac61b"
   },
   {
@@ -676,7 +676,7 @@
     "accent": "Adventure,Entertainment,Narrative,Podcast",
     "name": "Denise-HQ",
     "gender": "female",
-    "model_id": "paid",
+    "model_id": "free",
     "voice_id": "d23c7670-5d1b-11ee-a861-00163e2ac61b"
   },
   {
@@ -684,7 +684,7 @@
     "accent": "Audiobook,Narrative,Podcast",
     "name": "Dylan Martin",
     "gender": "male",
-    "model_id": "paid",
+    "model_id": "free",
     "voice_id": "d23d828d-5d1b-11ee-a861-00163e2ac61b"
   },
   {
@@ -692,7 +692,7 @@
     "accent": "Audiobook,Narrative,Podcast,Poetry",
     "name": "Davida Cameron",
     "gender": "female",
-    "model_id": "paid",
+    "model_id": "free",
     "voice_id": "d23e8c9f-5d1b-11ee-a861-00163e2ac61b"
   },
   {
@@ -700,7 +700,7 @@
     "accent": "conversational,british-essex,young",
     "name": "Dave(British-Essex)",
     "gender": "male",
-    "model_id": "free",
+    "model_id": "paid",
     "voice_id": "37f2f102-069f-11ef-9530-00163e027134"
   },
   {
@@ -716,7 +716,7 @@
     "accent": "raspy,british,middle aged",
     "name": "Derek(British)",
     "gender": "male",
-    "model_id": "free",
+    "model_id": "paid",
     "voice_id": "37f34382-069f-11ef-9530-00163e027134"
   },
   {
@@ -724,7 +724,7 @@
     "accent": "calm,australian,old",
     "name": "Douglas(Australian)",
     "gender": "male",
-    "model_id": "free",
+    "model_id": "paid",
     "voice_id": "37f405c4-069f-11ef-9530-00163e027134"
   },
   {
@@ -732,7 +732,7 @@
     "accent": "Chinese Accent , female",
     "name": "Dawn(Chinese Accent)",
     "gender": "female",
-    "model_id": "free",
+    "model_id": "paid",
     "voice_id": "37f58e80-069f-11ef-9530-00163e027134"
   },
   {
@@ -740,7 +740,7 @@
     "accent": "A generally calm and relaxed voice that can switch between tones seamlessly and be highly expressive when needed.Supports 9 moods/styles.",
     "name": "Davis(Male)",
     "gender": "male",
-    "model_id": "free",
+    "model_id": "paid",
     "voice_id": "ee2a4fb8-06a1-11ef-a978-00163e027134"
   },
   {
@@ -748,7 +748,7 @@
     "accent": "epic movie narrator, deep, calm, old",
     "name": "Daryl(Male)",
     "gender": "male",
-    "model_id": "free",
+    "model_id": "paid",
     "voice_id": "e7d3d63e-5935-11ef-857f-00163e041fdf"
   },
   {
@@ -764,7 +764,7 @@
     "accent": "Explainer,News,Podcast,Poetry",
     "name": "Evelyn-HQ",
     "gender": "female",
-    "model_id": "paid",
+    "model_id": "free",
     "voice_id": "d23f54f3-5d1b-11ee-a861-00163e2ac61b"
   },
   {
@@ -772,7 +772,7 @@
     "accent": "Audiobook,Documentary,Narrative,Podcast,Poetry",
     "name": "Evie Baker",
     "gender": "female",
-    "model_id": "paid",
+    "model_id": "free",
     "voice_id": "d23cc159-5d1b-11ee-a861-00163e2ac61b"
   },
   {
@@ -780,7 +780,7 @@
     "accent": "Audiobook,Narrative,Podcast",
     "name": "Eric Levin",
     "gender": "male",
-    "model_id": "paid",
+    "model_id": "free",
     "voice_id": "d23e59e4-5d1b-11ee-a861-00163e2ac61b"
   },
   {
@@ -788,7 +788,7 @@
     "accent": "ground reporter,british,middle aged",
     "name": "Elliott(British,Reporter)",
     "gender": "male",
-    "model_id": "free",
+    "model_id": "paid",
     "voice_id": "37f41780-069f-11ef-9530-00163e027134"
   },
   {
@@ -796,7 +796,7 @@
     "accent": "Young British melodious and pleasant female voice. Great for conversational conent.",
     "name": "Emilisa(British,Pleasant)",
     "gender": "female",
-    "model_id": "free",
+    "model_id": "paid",
     "voice_id": "37f67fde-069f-11ef-9530-00163e027134"
   }
 ]
