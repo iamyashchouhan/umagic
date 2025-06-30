@@ -731,7 +731,7 @@
     "preview_url": "https://files-alldrive.ifonelab.net/tts_sub/0/d1f452f4-8865-11ef-b991-a86bad680aa4.wav",
     "accent": "A young woman with a slight Chinese accent. Sweet and warm. Perfect for meditation, bedtime stories, and children's audiobooks.",
     "name": "Dawn(Chinese Accent)",
-    "gender": "male",
+    "gender": "female",
     "model_id": "Narration",
     "voice_id": "37f58e80-069f-11ef-9530-00163e027134"
   },
@@ -755,7 +755,7 @@
     "preview_url": "https://files-alldrive.ifonelab.net/tts_sub/0/169c26c4-886b-11ef-a532-a86bad680aa4.wav",
     "accent": "whispery, breathy, seductive, middle-aged",
     "name": "Dr Lovejoy(Female)",
-    "gender": "male",
+    "gender": "female",
     "model_id": "Whispering ASMR",
     "voice_id": "e7d3eb1a-5935-11ef-857f-00163e041fdf"
   },
@@ -763,7 +763,7 @@
     "preview_url": "http://images.ifonelab.net/filme/VoxBox_Realperson_Win/Evelyn-HQ.mp3",
     "accent": "Explainer,News,Podcast,Poetry",
     "name": "Evelyn-HQ",
-    "gender": "male",
+    "gender": "female",
     "model_id": "Real People",
     "voice_id": "d23f54f3-5d1b-11ee-a861-00163e2ac61b"
   },
@@ -771,7 +771,7 @@
     "preview_url": "http://images.ifonelab.net/filme/VoxBox_Realperson_Win/EvieBaker.mp3",
     "accent": "Audiobook,Documentary,Narrative,Podcast,Poetry",
     "name": "Evie Baker",
-    "gender": "male",
+    "gender": "female",
     "model_id": "Real People",
     "voice_id": "d23cc159-5d1b-11ee-a861-00163e2ac61b"
   },
@@ -795,7 +795,7 @@
     "preview_url": "https://files-alldrive.ifonelab.net/voxbox/audios/49dc9133-7a53-11ef-9479-a86bad680aa4.MP3",
     "accent": "Young British melodious and pleasant female voice. Great for conversational conent.",
     "name": "Emilisa(British,Pleasant)",
-    "gender": "male",
+    "gender": "female",
     "model_id": "Narration",
     "voice_id": "37f67fde-069f-11ef-9530-00163e027134"
   }
