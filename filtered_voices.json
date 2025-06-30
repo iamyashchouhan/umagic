@@ -321,7 +321,7 @@
   },
   {
     "preview_url": "https://files-alldrive.ifonelab.net/tts_sub/0/15a23d75-8865-11ef-adfa-a86bad680aa4.wav",
-    "accent": "A young engaging female voice, enchanting and compelling with every word. Perfect for audiobooks, storytelling, and narration.",
+    "accent": "storytelling, standard",
     "name": "Arabella(Female)",
     "gender": "female",
     "model_id": "Narration",
@@ -385,7 +385,7 @@
   },
   {
     "preview_url": "http://images.ifonelab.net/filme/VoxBox_Realperson_Win/Amber(Female).mp3",
-    "accent": "An engaging voice for children's stories that's warm and approachable, perfect for capturing the attention of young listeners.",
+    "accent": "Young , female",
     "name": "Amber(Female)",
     "gender": "female",
     "model_id": "Narration",
@@ -401,7 +401,7 @@
   },
   {
     "preview_url": "http://images.ifonelab.net/filme/VoxBox_Realperson_Win/Ashley(Female).mp3",
-    "accent": "A young voice that sounds a little shy but honest and sincere, conveying a sense of authenticity and approachability.",
+    "accent": "Young , female",
     "name": "Ashley(Female)",
     "gender": "female",
     "model_id": "Narration",
@@ -505,7 +505,7 @@
   },
   {
     "preview_url": "https://files-alldrive.ifonelab.net/tts_sub/0/3e10ecca-8867-11ef-8393-a86bad680aa4.wav",
-    "accent": "An old American man with a conversational tone, but could be useful for non-fiction content.",
+    "accent": "conversational, male",
     "name": "Bryan(Male)",
     "gender": "male",
     "model_id": "Narration",
@@ -529,7 +529,7 @@
   },
   {
     "preview_url": "http://images.ifonelab.net/filme/VoxBox_Realperson_Win/Brandon(Male).mp3",
-    "accent": "An honest and soft-spoken voice that's warm and good for conversation, connecting with users on a personal level and building trust.",
+    "accent": "conversation, male",
     "name": "Brandon(Male)",
     "gender": "male",
     "model_id": "Narration",
@@ -617,7 +617,7 @@
   },
   {
     "preview_url": "https://files-alldrive.ifonelab.net/tts_sub/0/bbfdefb0-8866-11ef-b9d8-a86bad680aa4.wav",
-    "accent": "A woman with a smooth and mature voice, perfect for conversations or business voiceovers.",
+    "accent": "smooth , female",
     "name": "Catherine(Female)",
     "gender": "female",
     "model_id": "Narration",
@@ -625,7 +625,7 @@
   },
   {
     "preview_url": "https://files-alldrive.ifonelab.net/tts_sub/0/9c61f95c-8868-11ef-94b0-a86bad680aa4.wav",
-    "accent": "Young female youthful childlike voice, animated and playful. Good for social media, audiobooks, youtube, tiktok and social media productions.",
+    "accent": "childlike, female",
     "name": "Chasely(Female)",
     "gender": "female",
     "model_id": "Narration",
@@ -633,7 +633,7 @@
   },
   {
     "preview_url": "http://images.ifonelab.net/filme/VoxBox_Realperson_Win/Christopher(Male).mp3",
-    "accent": "A warm voice for imparting information, especially for conversation, great for conveying information in a fun and approachable way.",
+    "accent": "warm voice, male",
     "name": "Christopher(Male)",
     "gender": "male",
     "model_id": "Narration",
@@ -641,7 +641,7 @@
   },
   {
     "preview_url": "http://images.ifonelab.net/filme/VoxBox_Realperson_Win/Cora(Female).mp3",
-    "accent": "A softer voice with a touch of melancholy that conveys understanding and empathy, delivering content in a sensitive and compassionate way.",
+    "accent": "Soft, female",
     "name": "Cora(Female)",
     "gender": "female",
     "model_id": "Narration",
@@ -729,7 +729,7 @@
   },
   {
     "preview_url": "https://files-alldrive.ifonelab.net/tts_sub/0/d1f452f4-8865-11ef-b991-a86bad680aa4.wav",
-    "accent": "A young woman with a slight Chinese accent. Sweet and warm. Perfect for meditation, bedtime stories, and children's audiobooks.",
+    "accent": "Chinese Accent , female",
     "name": "Dawn(Chinese Accent)",
     "gender": "female",
     "model_id": "Narration",
