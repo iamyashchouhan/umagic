@@ -443,7 +443,7 @@
     "preview_url": "https://files-alldrive.ifonelab.net/tts_sub/0/1bade648-886a-11ef-8866-a86bad680aa4.wav",
     "accent": "conversational, confident, young",
     "name": "Amandy(Female)",
-    "gender": "male",
+    "gender": "female",
     "model_id": "Audiobooks",
     "voice_id": "e7d3a074-5935-11ef-857f-00163e041fdf"
   },
@@ -451,7 +451,7 @@
     "preview_url": "https://files-alldrive.ifonelab.net/tts_sub/0/3f18edc3-886a-11ef-8142-a86bad680aa4.wav",
     "accent": "kid, cute, Indian",
     "name": "Anika(Child,India)",
-    "gender": "male",
+    "gender": "female",
     "model_id": "Audiobooks",
     "voice_id": "e7d3ac90-5935-11ef-857f-00163e041fdf"
   },
@@ -459,7 +459,7 @@
     "preview_url": "https://files-vv-pv.imyfone.com/voxbox/program/audios/6e6a6eee-b8fc-11ef-b642-484d7ec5c417.wav",
     "accent": "Narration,Calm",
     "name": "Barbara(Female)",
-    "gender": "male",
+    "gender": "female",
     "model_id": "Real People",
     "voice_id": "c2ded861-5d3e-11ee-a861-00163e2ac61b"
   },
@@ -467,7 +467,7 @@
     "preview_url": "http://images.ifonelab.net/filme/VoxBox_Realperson_Win/BettyHailey.mp3",
     "accent": "Audiobook,Entertainment,Explainer,Narrative,News",
     "name": "Betty Hailey",
-    "gender": "male",
+    "gender": "female",
     "model_id": "Real People",
     "voice_id": "d23cd065-5d1b-11ee-a861-00163e2ac61b"
   },
@@ -483,7 +483,7 @@
     "preview_url": "https://files-alldrive.ifonelab.net/voxbox/audios/8521e65d-7a52-11ef-af75-a86bad680aa4.MP3",
     "accent": "raspy,british,middle aged",
     "name": "Bedia(British)",
-    "gender": "male",
+    "gender": "female",
     "model_id": "Narration",
     "voice_id": "37f4d904-069f-11ef-9530-00163e027134"
   },
@@ -491,7 +491,7 @@
     "preview_url": "https://files-alldrive.ifonelab.net/tts_sub/0/0fd7c940-8864-11ef-abd9-a86bad680aa4.wav",
     "accent": "Interactive,pleasant,american,middle aged",
     "name": "Bonita(Female)",
-    "gender": "male",
+    "gender": "female",
     "model_id": "Narration",
     "voice_id": "37f4e660-069f-11ef-9530-00163e027134"
   },
@@ -611,7 +611,7 @@
     "preview_url": "https://files-alldrive.ifonelab.net/tts_sub/0/279fbb1e-8864-11ef-a2be-a86bad680aa4.wav",
     "accent": "american,young",
     "name": "Cerelia(ASMR)",
-    "gender": "male",
+    "gender": "female",
     "model_id": "Whispering ASMR",
     "voice_id": "37f4f006-069f-11ef-9530-00163e027134"
   },
@@ -619,7 +619,7 @@
     "preview_url": "https://files-alldrive.ifonelab.net/tts_sub/0/bbfdefb0-8866-11ef-b9d8-a86bad680aa4.wav",
     "accent": "A woman with a smooth and mature voice, perfect for conversations or business voiceovers.",
     "name": "Catherine(Female)",
-    "gender": "male",
+    "gender": "female",
     "model_id": "Narration",
     "voice_id": "37f5e95c-069f-11ef-9530-00163e027134"
   },
@@ -627,7 +627,7 @@
     "preview_url": "https://files-alldrive.ifonelab.net/tts_sub/0/9c61f95c-8868-11ef-94b0-a86bad680aa4.wav",
     "accent": "Young female youthful childlike voice, animated and playful. Good for social media, audiobooks, youtube, tiktok and social media productions.",
     "name": "Chasely(Female)",
-    "gender": "male",
+    "gender": "female",
     "model_id": "Narration",
     "voice_id": "37f69960-069f-11ef-9530-00163e027134"
   },
@@ -643,7 +643,7 @@
     "preview_url": "http://images.ifonelab.net/filme/VoxBox_Realperson_Win/Cora(Female).mp3",
     "accent": "A softer voice with a touch of melancholy that conveys understanding and empathy, delivering content in a sensitive and compassionate way.",
     "name": "Cora(Female)",
-    "gender": "male",
+    "gender": "female",
     "model_id": "Narration",
     "voice_id": "ee2a8938-06a1-11ef-a978-00163e027134"
   },
@@ -659,7 +659,7 @@
     "preview_url": "http://images.ifonelab.net/filme/VoxBox_Realperson_Win/DannaBrooks.mp3",
     "accent": "Entertainment,Explainer,Narrative,News,Poetry",
     "name": "Danna Brooks",
-    "gender": "male",
+    "gender": "female",
     "model_id": "Real People",
     "voice_id": "d23f277c-5d1b-11ee-a861-00163e2ac61b"
   },
@@ -667,7 +667,7 @@
     "preview_url": "http://images.ifonelab.net/filme/VoxBox_Realperson_Win/DarceyButler.mp3",
     "accent": "Audiobook,Entertainment,Narrative,Poetry",
     "name": "Darcey Butler",
-    "gender": "male",
+    "gender": "female",
     "model_id": "Real People",
     "voice_id": "d23d161b-5d1b-11ee-a861-00163e2ac61b"
   },
@@ -675,7 +675,7 @@
     "preview_url": "http://images.ifonelab.net/filme/VoxBox_Realperson_Win/Denise-HQ.mp3",
     "accent": "Adventure,Entertainment,Narrative,Podcast",
     "name": "Denise-HQ",
-    "gender": "male",
+    "gender": "female",
     "model_id": "Real People",
     "voice_id": "d23c7670-5d1b-11ee-a861-00163e2ac61b"
   },
@@ -691,7 +691,7 @@
     "preview_url": "http://images.ifonelab.net/filme/VoxBox_Realperson_Win/DavidaCameron.mp3",
     "accent": "Audiobook,Narrative,Podcast,Poetry",
     "name": "Davida Cameron",
-    "gender": "male",
+    "gender": "female",
     "model_id": "Real People",
     "voice_id": "d23e8c9f-5d1b-11ee-a861-00163e2ac61b"
   },
