@@ -1,82 +1,121 @@
-[
-  {
-    "voice_id": "pNInz6obpgDQGcFmaJgB",
-    "name": "Elon Musk",
-    "preview_url": "https://images.imyfone.com/filme/assets/voxbox_articles/elo-musk-voice-model.mp3",
-    "gender": "male",
+[{
+    "voice_id": "178",
+    "name": "Biden",
+    "preview_url": "https://images.topmediai.com/topmediai/assets/overview/voice-changer/Biden.mp3",
+    "is_vip": "1",
     "accent": "",
-    "model_id": "https://upload.wikimedia.org/wikipedia/commons/f/f4/USAFA_Hosts_Elon_Musk_%28Image_1_of_17%29_%28cropped%29.jpg"
+    "model_id": "https://images.topmediai.com/topmediai/assets/overview/ai-cover/Biden_new.png"
   },
   {
-    "voice_id": "Xb7hH8MSUJpSbSDYk0k2",
-    "name": "Taylor Swift",
-    "preview_url": "https://files.topmediai.com/admin_tts/tts_bgm/8ed5eb40-cdc4-11ef-9a5d-00163e00e580.mp3",
-    "gender": "female",
-    "accent": "british",
-    "model_id": "https://static01.nyt.com/images/2020/10/27/arts/26billboard/merlin_179096598_a1d21455-03d8-45f4-9ae9-f90124491698-mediumSquareAt3X.jpg"
+    "voice_id": "210",
+    "name": "Zoro",
+    "preview_url": "https://images.topmediai.com/topmediai/assets/overview/voice-changer/Zoro.mp3",
+    "is_vip": "1",
+    "accent": "",
+    "model_id": "https://images.topmediai.com/topmediai/assets/overview/ai-cover/zoro.png"
   },
   {
-    "voice_id": "ErXwobaYiN019PkySvjV",
-    "name": "Eminem",
-    "preview_url": "https://images.imyfone.com/filme/assets/voxbox_articles/eminem-voice-model.mp3",
-    "gender": "male",
-    "accent": "american",
-    "model_id": "https://pyxis.nymag.com/v1/imgs/fa5/611/b8378711526ca45f122676263a9b518389-02-eminem.rsquare.w330.jpg"
+    "voice_id": "179",
+    "name": "Narendra Modi",
+    "preview_url": "https://images.topmediai.com/topmediai/assets/overview/voice-changer/Narendra_Modi.mp3",
+    "is_vip": "1",
+    "accent": "",
+    "model_id": "https://images.topmediai.com/topmediai/assets/overview/ai-cover/narendra-modi.png"
   },
   {
-    "voice_id": "9BWtsMINqrJLrRacOk9x",
+    "voice_id": "180",
     "name": "Donald Trump",
-    "preview_url": "https://images.imyfone.com/filme/assets/voxbox_articles/donald-trump-voice-model.mp3",
-    "gender": "male",
-    "accent": "american",
-    "model_id": "https://cdn.ballotpedia.org/images/3/3b/Donald_Trump_Square.png"
-  },
-  {
-    "voice_id": "VR6AewLTigWG4xSOukaG",
-    "name": "Kanye west",
-    "preview_url": "https://images.imyfone.com/filme/assets/voxbox_articles/kanye-west-voice-model.mp3",
-    "gender": "male",
-    "accent": "american",
-    "model_id": "https://static.dezeen.com/uploads/2016/08/kanye-west-ikea-collaboration-square_dezeen_936_0.jpg"
-  },
-  {
-    "voice_id": "wViXBPUzp2ZZixB1xQuM",
-    "name": "Putin",
-    "preview_url": "https://files.topmediai.com/admin_tts/tts_bgm/7fd2bac0-c9bd-11ef-a964-00163e00e580.mp3",
-    "gender": "male",
-    "accent": "american",
-    "model_id": "https://upload.wikimedia.org/wikipedia/commons/5/57/%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9F%D1%83%D1%82%D0%B8%D0%BD_%2808-03-2024%29_%28cropped%29_%28higher_res%29.jpg"
-  },
-  {
-    "voice_id": "pqHfZKP75CvOlQylNhV4",
-    "name": "Mickey Mouse",
-    "preview_url": "https://files.topmediai.com/admin_tts/tts_bgm/e6b2952e-c9bf-11ef-8067-00163e00e580.mp3",
-    "gender": "male",
-    "accent": "american",
-    "model_id": "https://static.vecteezy.com/ti/vecteur-libre/t2/27386560-mickey-souris-illustration-gratuit-vectoriel.jpg"
-  },
-  {
-    "voice_id": "nPczCjzI2devNBz1zQrb",
-    "name": "Michael Jackson",
-    "preview_url": "https://files.topmediai.com/admin_tts/tts_bgm/6eecfff8-c9be-11ef-aa0f-00163e00e580.mp3",
-    "gender": "male",
-    "accent": "american",
-    "model_id": "https://static.wikia.nocookie.net/bttf/images/2/2c/Michael_Jackson.jpg/revision/latest?cb=20220625105913"
-  },
-  {
-    "voice_id": "N2lVS1w4EtoT3dr4eOWO",
-    "name": "Hermione",
-    "preview_url": "https://files.topmediai.com/admin_tts/tts_bgm/a3c2c648-cda3-11ef-940f-00163e00e580.mp3",
-    "gender": "famale",
+    "preview_url": "https://images.topmediai.com/topmediai/assets/overview/voice-changer/Donald_Trump.mp3",
+    "is_vip": "1",
     "accent": "",
-    "model_id": "https://i0.wp.com/thebookdragonchronicles.wordpress.com/wp-content/uploads/2016/04/hermionemovie1.jpg?w=494&h=686&ssl=1"
+    "model_id": "https://images.topmediai.com/topmediai/assets/overview/ai-cover/donald-trump.png"
   },
   {
-    "voice_id": "IKne3meq5aSn9XLyUdCD",
-    "name": "Mr Beast",
-    "preview_url": "https://files.topmediai.com/admin_tts/tts_bgm/00f93cf6-c9c2-11ef-a25d-00163e00e580.mp3",
-    "gender": "male",
-    "accent": "australian",
-    "model_id": "https://static01.nyt.com/images/2024/08/01/multimedia/01xp-mrbeast1-ktqv/01xp-mrbeast1-ktqv-mediumSquareAt3X.jpg"
+    "voice_id": "71",
+    "name": "Ariana Grande",
+    "preview_url": "https://images.topmediai.com/topmediai/assets/overview/voice-changer/Ariana_Grande.mp3",
+    "is_vip": "1",
+    "accent": "",
+    "model_id": "https://images.topmediai.com/topmediai/assets/overview/ai-cover/Ariana_new.png"
+  },
+  {
+    "voice_id": "75",
+    "name": "Harry Styles",
+    "preview_url": "https://images.topmediai.com/topmediai/assets/overview/voice-changer/Harry_Styles.mp3",
+    "is_vip": "1",
+    "accent": "",
+    "model_id": "https://images.topmediai.com/topmediai/assets/overview/ai-cover/Harry_new.png"
+  },
+  {
+    "voice_id": "79",
+    "name": "Bruno Mars-2",
+    "preview_url": "https://images.topmediai.com/topmediai/assets/overview/voice-changer/Bruno_Mars_2.mp3",
+    "is_vip": "1",
+    "accent": "",
+    "model_id": "https://images.topmediai.com/topmediai/assets/overview/ai-cover/Bruno_Mars_new.png"
+  },
+  {
+    "voice_id": "84",
+    "name": "Frank Sinatra",
+    "preview_url": "https://images.topmediai.com/topmediai/assets/overview/voice-changer/Frank_Sinatra.mp3",
+    "is_vip": "1",
+    "accent": "",
+    "model_id": "https://images.topmediai.com/topmediai/assets/overview/ai-cover/Frank_Sinatra.png"
+  },
+  {
+    "voice_id": "85",
+    "name": "Rose",
+    "preview_url": "https://images.topmediai.com/topmediai/assets/overview/voice-changer/Rose.mp3",
+    "is_vip": "1",
+    "accent": "",
+    "model_id": "https://images.topmediai.com/topmediai/assets/overview/ai-cover/Rose.png"
+  },
+  {
+    "voice_id": "86",
+    "name": "Eminem",
+    "preview_url": "https://images.topmediai.com/topmediai/assets/overview/voice-changer/Eminem.mp3",
+    "is_vip": "1",
+    "accent": "",
+    "model_id": "https://images.topmediai.com/topmediai/assets/overview/ai-cover/Eminem.png"
+  },
+  {
+    "voice_id": "89",
+    "name": "Arijit Singh",
+    "preview_url": "https://images.topmediai.com/topmediai/assets/overview/voice-changer/Arijit_Singh.mp3",
+    "is_vip": "1",
+    "accent": "",
+    "model_id": "https://images.topmediai.com/topmediai/assets/overview/ai-cover/Arijit-Singh.png"
+  },
+  {
+    "voice_id": "92",
+    "name": "Snoop Dogg",
+    "preview_url": "https://images.topmediai.com/topmediai/assets/overview/voice-changer/Snoop_Dogg.mp3",
+    "is_vip": "1",
+    "accent": "",
+    "model_id": "https://images.topmediai.com/topmediai/assets/overview/ai-cover/snoop-dogg.png"
+  },
+   {
+    "voice_id": "95",
+    "name": "Michael Jackson",
+    "preview_url": "https://images.topmediai.com/topmediai/assets/overview/voice-changer/Michael_Jackson.mp3",
+    "is_vip": "1",
+    "accent": "",
+    "model_id": "https://images.topmediai.com/topmediai/assets/overview/ai-cover/MJ_new.png"
+  },
+  {
+    "voice_id": "248",
+    "name": "Mickey Mouse",
+    "preview_url": "https://images.topmediai.com/topmediai/assets/overview/voice-changer/Mickey_Mouse.mp3",
+    "is_vip": "1",
+    "accent": "",
+    "model_id": "https://images.topmediai.com/topmediai/assets/overview/ai-cover/mickey-mouse.png"
+  },
+  {
+    "voice_id": "39",
+    "name": "Telephone",
+    "preview_url": "https://files-topmediai.ifonelab.net/voice_change/audition/fmod/Telephone.mp3",
+    "is_vip": "1",
+    "accent": "",
+    "model_id": "https://files-topmediai.ifonelab.net/voice_change/avatar/Telephone.png"
   }
 ]
