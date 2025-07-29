@@ -103,14 +103,6 @@
     "model_id": "https://images.topmediai.com/topmediai/assets/overview/ai-cover/MJ_new.png"
   },
   {
-    "voice_id": "248",
-    "name": "Mickey Mouse",
-    "preview_url": "https://images.topmediai.com/topmediai/assets/overview/voice-changer/Mickey_Mouse.mp3",
-    "is_vip": "1",
-    "accent": "",
-    "model_id": "https://images.topmediai.com/topmediai/assets/overview/ai-cover/mickey-mouse.png"
-  },
-  {
     "voice_id": "39",
     "name": "Telephone",
     "preview_url": "https://files-topmediai.ifonelab.net/voice_change/audition/fmod/Telephone.mp3",
