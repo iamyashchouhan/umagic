@@ -1,5 +1,21 @@
 [
     {
+      "preview_url": "http://images.ifonelab.net/filme/VoxBox_Realperson_Win/Edward(Male).mp3",
+      "accent": "deep,american,middle aged",
+      "name": "Adam(Edward)",
+      "gender": "male",
+      "model_id": "free",
+      "voice_id": "67aedda3-5d4b-11ee-a861-00163e2ac61b"
+    },
+    {
+      "preview_url": "http://images.ifonelab.net/filme/VoxBox_Realperson_Win/Chloe(TiktokStyle).mp3",
+      "accent": "Tiktok,Trendy",
+      "name": "Chloe(Tiktok Style)",
+      "gender": "female",
+      "model_id": "free",
+      "voice_id": "4390b8e2-06a8-11ef-b6f9-00163e046653"
+    },
+    {
         "preview_url": "http://images.ifonelab.net/filme/VoxBox_Realperson_Win/Mason-HQ.mp3",
         "accent": "Adventure,Audiobook,Podcast,Poetry",
         "name": "Mason-HQ",
@@ -14,6 +30,22 @@
         "gender": "male",
         "model_id": "free",
         "voice_id": "37f5740e-069f-11ef-9530-00163e027134"
+    },
+    {
+      "preview_url": "http://images.ifonelab.net/filme/VoxBox_Realperson_Win/LittleEmma.mp3",
+      "accent": "Kid,Girl,cute,sweet",
+      "name": "Little Emma",
+      "gender": "child",
+      "model_id": "paid",
+      "voice_id": "67aee700-5d4b-11ee-a861-00163e2ac61b"
+    },
+    {
+      "preview_url": "http://images.ifonelab.net/filme/VoxBox_Realperson_Win/LittleJack.mp3",
+      "accent": "Kid,Boy,cute,Playful",
+      "name": "Little Jack",
+      "gender": "child",
+      "model_id": "paid",
+      "voice_id": "67aee64e-5d4b-11ee-a861-00163e2ac61b"
     },
     {
         "preview_url": "http://images.ifonelab.net/filme/VoxBox_Realperson_Win/AlbieWood.mp3",
