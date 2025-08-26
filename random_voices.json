@@ -1,0 +1,242 @@
+[
+    {
+        "preview_url": "http://images.ifonelab.net/filme/VoxBox_Realperson_Win/Mason-HQ.mp3",
+        "accent": "Adventure,Audiobook,Podcast,Poetry",
+        "name": "Mason-HQ",
+        "gender": "male",
+        "model_id": "paid",
+        "voice_id": "d23c6912-5d1b-11ee-a861-00163e2ac61b"
+    },
+    {
+        "preview_url": "https://files-alldrive.ifonelab.net/tts_sub/0/80b8d0b6-8865-11ef-b526-a86bad680aa4.wav",
+        "accent": "Young American male with a simple and warm voice. Perfect for storytelling.",
+        "name": "Jordian(Male)",
+        "gender": "male",
+        "model_id": "free",
+        "voice_id": "37f5740e-069f-11ef-9530-00163e027134"
+    },
+    {
+        "preview_url": "http://images.ifonelab.net/filme/VoxBox_Realperson_Win/AlbieWood.mp3",
+        "accent": "Audiobook,Documentary,Narrative,Podcast,Poetry",
+        "name": "Albie Wood",
+        "gender": "male",
+        "model_id": "free",
+        "voice_id": "d23cbfa3-5d1b-11ee-a861-00163e2ac61b"
+    },
+    {
+        "preview_url": "http://images.ifonelab.net/filme/VoxBox_Realperson_Win/Asmr-Female.mp3",
+        "accent": "Short video,fear,old",
+        "name": "Aser-Female",
+        "gender": "female",
+        "model_id": "paid",
+        "voice_id": "6a9595b8-8788-11ee-8e13-e86f38d7ec1a"
+    },
+    {
+        "preview_url": "https://files-alldrive.ifonelab.net/tts_sub/0/bbfdefb0-8866-11ef-b9d8-a86bad680aa4.wav",
+        "accent": "A woman with a smooth and mature voice, perfect for conversations or business voiceovers.",
+        "name": "Catherine(Female)",
+        "gender": "female",
+        "model_id": "paid",
+        "voice_id": "37f5e95c-069f-11ef-9530-00163e027134"
+    },
+    {
+        "preview_url": "https://files-alldrive.ifonelab.net/tts_sub/0/5e7bb6c9-885c-11ef-aab8-a86bad680aa4.wav",
+        "accent": "Audiobook,Documentary,Marketing,Narrative,Podcast,Poetry",
+        "name": "Aria Foster",
+        "gender": "female",
+        "model_id": "paid",
+        "voice_id": "d23cafd4-5d1b-11ee-a861-00163e2ac61b"
+    },
+    {
+        "preview_url": "http://images.ifonelab.net/filme/VoxBox_Realperson_Win/Kaylie.mp3",
+        "accent": "Audiobook,Documentary,Explainer,Narrative,Podcast",
+        "name": "Kaylie",
+        "gender": "female",
+        "model_id": "free",
+        "voice_id": "d23c9d27-5d1b-11ee-a861-00163e2ac61b"
+    },
+    {
+        "preview_url": "https://files-vv-pv.imyfone.com/voxbox/program/audios/6a24c762-b8fc-11ef-b642-484d7ec5c417.wav",
+        "accent": "Narration, Tutorial, Product Introduction",
+        "name": "David(Male)",
+        "gender": "male",
+        "model_id": "free",
+        "voice_id": "c2ded37f-5d3e-11ee-a861-00163e2ac61b"
+    },
+    {
+        "preview_url": "http://images.ifonelab.net/filme/VoxBox_Realperson_Win/Kelan.mp3",
+        "accent": "Audiobook,Documentary,Marketing,Narrative,Podcast,Poetry",
+        "name": "Kelan",
+        "gender": "male",
+        "model_id": "free",
+        "voice_id": "d23cae33-5d1b-11ee-a861-00163e2ac61b"
+    },
+    {
+        "preview_url": "http://images.ifonelab.net/filme/VoxBox_Realperson_Win/FreddyDavis.mp3",
+        "accent": "Adventure,Audiobook,Explainer,Marketing,Podcast",
+        "name": "Freddy Davis",
+        "gender": "male",
+        "model_id": "free",
+        "voice_id": "d23c5e07-5d1b-11ee-a861-00163e2ac61b"
+    },
+    {
+        "preview_url": "http://images.ifonelab.net/filme/VoxBox_Realperson_Win/BettyHailey.mp3",
+        "accent": "Audiobook,Entertainment,Explainer,Narrative,News",
+        "name": "Betty Hailey",
+        "gender": "female",
+        "model_id": "free",
+        "voice_id": "d23cd065-5d1b-11ee-a861-00163e2ac61b"
+    },
+    {
+        "preview_url": "http://images.ifonelab.net/filme/VoxBox_Realperson_Win/Eric(Male).mp3",
+        "accent": "A friendly voice that conveys soft-spoken confidence, inspiring trust and reliability with a calm and collected tone.",
+        "name": "Eric(Male)",
+        "gender": "male",
+        "model_id": "free",
+        "voice_id": "ee2a9900-06a1-11ef-a978-00163e027134"
+    },
+    {
+        "preview_url": "https://files-alldrive.ifonelab.net/tts_sub/0/8e227f09-886a-11ef-968e-a86bad680aa4.wav",
+        "accent": "narrative & story, relaxed, gentle, warm, middle-aged",
+        "name": "Benja(Male)",
+        "gender": "male",
+        "model_id": "paid",
+        "voice_id": "e7d3c0b8-5935-11ef-857f-00163e041fdf"
+    },
+    {
+        "preview_url": "https://files-alldrive.ifonelab.net/voxbox/audios/4ef20a4f-86a5-11ef-a9ee-a86bad680aa4.mp3",
+        "accent": "shouty,american,middle aged",
+        "name": "Oliver(Shouty)",
+        "gender": "male",
+        "model_id": "paid",
+        "voice_id": "37f36d30-069f-11ef-9530-00163e027134"
+    },
+    {
+        "preview_url": "https://files-alldrive.ifonelab.net/tts_sub/0/3f18edc3-886a-11ef-8142-a86bad680aa4.wav",
+        "accent": "kid, cute, Indian",
+        "name": "Anika(Child,India)",
+        "gender": "female",
+        "model_id": "free",
+        "voice_id": "e7d3ac90-5935-11ef-857f-00163e041fdf"
+    },
+    {
+        "preview_url": "https://files-alldrive.ifonelab.net/tts_sub/0/b990d3e0-8867-11ef-ba4c-a86bad680aa4.wav",
+        "accent": "Young indian woman. A gentle yet emotive voice for conversations.",
+        "name": "Kuk(African)",
+        "gender": "male",
+        "model_id": "free",
+        "voice_id": "37f64276-069f-11ef-9530-00163e027134"
+    },
+    {
+        "preview_url": "http://images.ifonelab.net/filme/VoxBox_Realperson_Win/Louis-HQ.mp3",
+        "accent": "Entertainment,Explainer,Marketing,News,Podcast",
+        "name": "Louis-HQ",
+        "gender": "male",
+        "model_id": "free",
+        "voice_id": "d23ef824-5d1b-11ee-a861-00163e2ac61b"
+    },
+    {
+        "preview_url": "https://files-alldrive.ifonelab.net/tts_sub/0/9f62e96a-886b-11ef-bb70-a86bad680aa4.wav",
+        "accent": "whispery, young, light plosives and clicks",
+        "name": "Pluff(Male)",
+        "gender": "male",
+        "model_id": "free",
+        "voice_id": "e7db72d6-5935-11ef-857f-00163e041fdf"
+    },
+    {
+        "preview_url": "https://files-alldrive.ifonelab.net/tts_sub/0/da1f8907-8860-11ef-80ff-a86bad680aa4.wav",
+        "accent": "sailor,irish,old",
+        "name": "Fin(Ireland)",
+        "gender": "male",
+        "model_id": "free",
+        "voice_id": "37f30570-069f-11ef-9530-00163e027134"
+    },
+    {
+        "preview_url": "https://files-alldrive.ifonelab.net/voxbox/audios/e2783e4b-7a51-11ef-b01c-a86bad680aa4.MP3",
+        "accent": "conversational,british-essex,young",
+        "name": "Dave(British-Essex)",
+        "gender": "male",
+        "model_id": "free",
+        "voice_id": "37f2f102-069f-11ef-9530-00163e027134"
+    },
+    {
+        "preview_url": "http://images.ifonelab.net/filme/VoxBox_Realperson_Win/DavidaCameron.mp3",
+        "accent": "Audiobook,Narrative,Podcast,Poetry",
+        "name": "Davida Cameron",
+        "gender": "female",
+        "model_id": "free",
+        "voice_id": "d23e8c9f-5d1b-11ee-a861-00163e2ac61b"
+    },
+    {
+        "preview_url": "https://files-alldrive.ifonelab.net/tts_sub/0/deaafd64-8862-11ef-b40a-a86bad680aa4.wav",
+        "accent": "orotund,american,old",
+        "name": "Hunk(Male)",
+        "gender": "male",
+        "model_id": "free",
+        "voice_id": "37f442a0-069f-11ef-9530-00163e027134"
+    },
+    {
+        "preview_url": "http://images.ifonelab.net/filme/VoxBox_Realperson_Win/Amber(Female).mp3",
+        "accent": "An engaging voice for children's stories that's warm and approachable, perfect for capturing the attention of young listeners.",
+        "name": "Amber(Female)",
+        "gender": "female",
+        "model_id": "free",
+        "voice_id": "ee2a7006-06a1-11ef-a978-00163e027134"
+    },
+    {
+        "preview_url": "https://files-alldrive.ifonelab.net/voxbox/audios/5e8a5b48-7a52-11ef-9ebb-a86bad680aa4.mp3",
+        "accent": "hoarse,american,middle aged",
+        "name": "Callum(hoarse)",
+        "gender": "male",
+        "model_id": "free",
+        "voice_id": "37f36006-069f-11ef-9530-00163e027134"
+    },
+    {
+        "preview_url": "https://files-alldrive.ifonelab.net/voxbox/audios/1210e466-7a53-11ef-aa1d-a86bad680aa4.MP3",
+        "accent": "Young, American female with an adorable and youthful voice. Perfect for anime, video games, or productions geared towards a young audience. This voice embodies cheerfulness, sweetness, and has an unmistakably kawaii charm.",
+        "name": "Kawaii Aerisita(Expressive)",
+        "gender": "female",
+        "model_id": "paid",
+        "voice_id": "37f6a6ee-069f-11ef-9530-00163e027134"
+    },
+    {
+        "preview_url": "http://images.ifonelab.net/filme/VoxBox_Realperson_Win/Bruce-HQ.mp3",
+        "accent": "Audiobook,Marketing,News,Podcast,Poetry",
+        "name": "Bruce-HQ",
+        "gender": "male",
+        "model_id": "free",
+        "voice_id": "d23d6fee-5d1b-11ee-a861-00163e2ac61b"
+    },
+    {
+        "preview_url": "https://files-alldrive.ifonelab.net/voxbox/audios/1f5df828-7a53-11ef-bb09-a86bad680aa4.MP3",
+        "accent": "confident,british,middle aged",
+        "name": "Alice(Confident,British)",
+        "gender": "female",
+        "model_id": "free",
+        "voice_id": "37f3c7d0-069f-11ef-9530-00163e027134"
+    },
+    {
+        "preview_url": "https://files-alldrive.ifonelab.net/voxbox/microsoft_style_audios/en-US-Ava-Advertisement-Audio.wav",
+        "accent": "A bright, engaging voice with a beautiful tone that's perfect for delivering search results and capturing users' attention.",
+        "name": "Aeva(Female)",
+        "gender": "female",
+        "model_id": "free",
+        "voice_id": "ee2a1b1a-06a1-11ef-a978-00163e027134"
+    },
+    {
+        "preview_url": "http://images.ifonelab.net/filme/VoxBox_Realperson_Win/Denise-HQ.mp3",
+        "accent": "Adventure,Entertainment,Narrative,Podcast",
+        "name": "Denise-HQ",
+        "gender": "female",
+        "model_id": "free",
+        "voice_id": "d23c7670-5d1b-11ee-a861-00163e2ac61b"
+    },
+    {
+        "preview_url": "https://files-alldrive.ifonelab.net/tts_sub/0/66b15264-8866-11ef-a615-a86bad680aa4.wav",
+        "accent": "A voice clone of a 36 year old male from rural Virginia. Great for conversational content.",
+        "name": "Michael Bennett(Rural Virginia)",
+        "gender": "male",
+        "model_id": "free",
+        "voice_id": "37f5d25a-069f-11ef-9530-00163e027134"
+    }
+]
