@@ -4,7 +4,7 @@
         "accent": "Adventure,Audiobook,Podcast,Poetry",
         "name": "Mason-HQ",
         "gender": "male",
-        "model_id": "paid",
+        "model_id": "free",
         "voice_id": "d23c6912-5d1b-11ee-a861-00163e2ac61b"
     },
     {
@@ -28,7 +28,7 @@
         "accent": "Short video,fear,old",
         "name": "Aser-Female",
         "gender": "female",
-        "model_id": "paid",
+        "model_id": "free",
         "voice_id": "6a9595b8-8788-11ee-8e13-e86f38d7ec1a"
     },
     {
@@ -36,7 +36,7 @@
         "accent": "A woman with a smooth and mature voice, perfect for conversations or business voiceovers.",
         "name": "Catherine(Female)",
         "gender": "female",
-        "model_id": "paid",
+        "model_id": "free",
         "voice_id": "37f5e95c-069f-11ef-9530-00163e027134"
     },
     {
@@ -44,7 +44,7 @@
         "accent": "Audiobook,Documentary,Marketing,Narrative,Podcast,Poetry",
         "name": "Aria Foster",
         "gender": "female",
-        "model_id": "paid",
+        "model_id": "free",
         "voice_id": "d23cafd4-5d1b-11ee-a861-00163e2ac61b"
     },
     {
@@ -100,7 +100,7 @@
         "accent": "narrative & story, relaxed, gentle, warm, middle-aged",
         "name": "Benja(Male)",
         "gender": "male",
-        "model_id": "paid",
+        "model_id": "free",
         "voice_id": "e7d3c0b8-5935-11ef-857f-00163e041fdf"
     },
     {
@@ -108,7 +108,7 @@
         "accent": "shouty,american,middle aged",
         "name": "Oliver(Shouty)",
         "gender": "male",
-        "model_id": "paid",
+        "model_id": "free",
         "voice_id": "37f36d30-069f-11ef-9530-00163e027134"
     },
     {
@@ -196,7 +196,7 @@
         "accent": "Young, American female with an adorable and youthful voice. Perfect for anime, video games, or productions geared towards a young audience. This voice embodies cheerfulness, sweetness, and has an unmistakably kawaii charm.",
         "name": "Kawaii Aerisita(Expressive)",
         "gender": "female",
-        "model_id": "paid",
+        "model_id": "free",
         "voice_id": "37f6a6ee-069f-11ef-9530-00163e027134"
     },
     {
